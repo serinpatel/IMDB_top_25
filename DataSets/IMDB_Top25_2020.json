@@ -1,0 +1,152 @@
+[
+    {
+        "Rank":1,
+        "Movie Title":"Hillbilly Elegy",
+        "Year":"2020",
+        "IMDB Rating":"6.7"
+    },
+    {
+        "Rank":2,
+        "Movie Title":"Sonic the Hedgehog",
+        "Year":"2020",
+        "IMDB Rating":"6.5"
+    },
+    {
+        "Rank":3,
+        "Movie Title":"365 Days",
+        "Year":"2020",
+        "IMDB Rating":"3.3"
+    },
+    {
+        "Rank":4,
+        "Movie Title":"Tenet",
+        "Year":"2020",
+        "IMDB Rating":"7.3"
+    },
+    {
+        "Rank":5,
+        "Movie Title":"The Hunt",
+        "Year":"2020",
+        "IMDB Rating":"6.6"
+    },
+    {
+        "Rank":6,
+        "Movie Title":"Hamilton",
+        "Year":"2020",
+        "IMDB Rating":"8.3"
+    },
+    {
+        "Rank":7,
+        "Movie Title":"The Devil All the Time",
+        "Year":"2020",
+        "IMDB Rating":"7.1"
+    },
+    {
+        "Rank":8,
+        "Movie Title":"Promising Young Woman",
+        "Year":"2020",
+        "IMDB Rating":"7.5"
+    },
+    {
+        "Rank":9,
+        "Movie Title":"The Old Guard",
+        "Year":"2020",
+        "IMDB Rating":"6.7"
+    },
+    {
+        "Rank":10,
+        "Movie Title":"The Invisible Man",
+        "Year":"2020",
+        "IMDB Rating":"7.1"
+    },
+    {
+        "Rank":11,
+        "Movie Title":"The Father",
+        "Year":"2020",
+        "IMDB Rating":"8.2"
+    },
+    {
+        "Rank":12,
+        "Movie Title":"Greenland",
+        "Year":"2020",
+        "IMDB Rating":"6.4"
+    },
+    {
+        "Rank":13,
+        "Movie Title":"Inheritance",
+        "Year":"2020",
+        "IMDB Rating":"5.6"
+    },
+    {
+        "Rank":14,
+        "Movie Title":"The Tax Collector",
+        "Year":"2020",
+        "IMDB Rating":"4.8"
+    },
+    {
+        "Rank":15,
+        "Movie Title":"Emma.",
+        "Year":"2020",
+        "IMDB Rating":"6.7"
+    },
+    {
+        "Rank":16,
+        "Movie Title":"Palm Springs",
+        "Year":"2020",
+        "IMDB Rating":"7.4"
+    },
+    {
+        "Rank":17,
+        "Movie Title":"Another Round",
+        "Year":"2020",
+        "IMDB Rating":"7.7"
+    },
+    {
+        "Rank":18,
+        "Movie Title":"The Witches",
+        "Year":"2020",
+        "IMDB Rating":"5.4"
+    },
+    {
+        "Rank":19,
+        "Movie Title":"A Quiet Place Part II",
+        "Year":"2020",
+        "IMDB Rating":"7.2"
+    },
+    {
+        "Rank":20,
+        "Movie Title":"Soul",
+        "Year":"2020",
+        "IMDB Rating":"8.0"
+    },
+    {
+        "Rank":21,
+        "Movie Title":"The Empty Man",
+        "Year":"2020",
+        "IMDB Rating":"6.2"
+    },
+    {
+        "Rank":22,
+        "Movie Title":"Run",
+        "Year":"2020",
+        "IMDB Rating":"6.7"
+    },
+    {
+        "Rank":23,
+        "Movie Title":"Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+        "Year":"2020",
+        "IMDB Rating":"6.1"
+    },
+    {
+        "Rank":24,
+        "Movie Title":"Nomadland",
+        "Year":"2020",
+        "IMDB Rating":"7.3"
+    },
+    {
+        "Rank":25,
+        "Movie Title":"I Care a Lot",
+        "Year":"2020",
+        "IMDB Rating":"6.4"
+    }
+]
