@@ -50,7 +50,7 @@ The script will prompt you to enter a starting year(eg.2022). The script will th
 
 ## Output
 
-For each year, a JSON file will be saved in the `DataSets/` directory with the top 50 movies and their IMDb ratings. The JSON file format will look like this:
+For each year, a JSON file will be saved in the `DataSets/` directory with the top 25 movies and their IMDb ratings. The JSON file format will look like this:
 
 ```json
 [
